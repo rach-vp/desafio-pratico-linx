@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.section-title {
+  color: purple;
+  font-size: 1.5rem;
+  margin: 1em 0;
+  text-align: center;
+}
+
+.carousel {
+  align-items: center;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  position: relative;
+  width: 80%;
+}
+
+.carousel-items {
+  border: 1px solid red;
+}
